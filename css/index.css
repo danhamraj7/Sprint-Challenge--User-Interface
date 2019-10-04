@@ -306,6 +306,63 @@ nav a {
 }
 
 .jumbo {
-    margin-top: 20px;
+    margin: 20px 0 20px 0;
+}
+
+/********services page***************************************************************/
+.sectionAbout {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px dashed black;
     margin-bottom: 20px;
+}
+
+.imgJumbo {
+    margin: 20px 0 20px 0;
+}
+
+.sectionAbout p {
+    margin-bottom: 20px;
+}
+
+.plan-img,
+.aboutWorking,
+.off-img,
+.aboutMeeting {
+    display: flex;
+    flex-direction: column;
+    margin: 15px 5px 10px 0px;
+    width: 46%;
+    border-bottom: 1px dashed black;
+    justify-content: space-between;
+}
+
+.imgStrategy,
+.imgWeWrk,
+.imgPlacesWeWrk,
+.imgCollab {
+    margin-bottom: 15px;
+}
+
+button {
+    border-radius: 10px;
+    border: 2px solid black;
+    background: white;
+    display: flex;
+    width: 120px;
+    height: 30px;
+    justify-content: center;
+    margin: 15px;
+}
+
+.midSect {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 15px 0 15px 0;
+}
+
+
+.letWrkTo {
+    margin: 15px 0 60px 0;
 }
