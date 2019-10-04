@@ -34,10 +34,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-Semantic element clearly describes its meaning to both the browser and the any developer.It 
-also creates structure on the HTML page by way of section tags.
-Example of samantic tags are Header, footer, Main, Nav, Paragraph. So we can know that tags 
-are relavant to their names for example "p" tag refers to paragraph.
+Semantic element clearly describes its meaning to both the browser and the any developer.It also creates structure on the HTML page by way of section tags.
+Example of samantic tags are Header, footer, Main, Nav, Paragraph. So we can know that tags are relavant to their names for example "p" tag refers to paragraph.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 An inline element cannot have top or bottom margin that can be set for an inline-block. An element with display set as inline-block actually has properties of both inline and block elements. An inline element can't have width and height property set whereas a block and an inline-block element can have.
